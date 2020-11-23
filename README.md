@@ -4,7 +4,7 @@
 <b>Hey, I'm Josh<i>(he/him)...</i></b>
 
 
-[<img src="https://bit.ly/39bYxSq">]( Git page under construction)
+<img src="https://bit.ly/39bYxSq"> Git page under construction
 
 
 <!-- A little bit about me, my journey and my skills. -->
