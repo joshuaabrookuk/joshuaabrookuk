@@ -15,9 +15,7 @@ A little bit about me, my journey and my skills.
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
 
-<div align="center">
-<p><b>##Projects</b></p></div>
-Projects
+##Projects
 
 | Project | Description | Tech | Repo/ Link
 | ----------- | ----------- | ----------- | ----------- |
