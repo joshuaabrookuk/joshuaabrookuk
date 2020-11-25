@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Joshua Brook</h1></div>
 
-<b>Hey, I'm Josh<i>(he/him)...</i></b>
+<b>Hey, I'm Josh <i>(he/him)...</i></b>
 
 
 <img src="https://bit.ly/39bYxSq"> Git page under construction
