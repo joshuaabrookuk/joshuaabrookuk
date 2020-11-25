@@ -4,12 +4,12 @@
 <b>Hey, I'm Josh<i>(he/him)...</i></b>
 
 
-<img src="https://bit.ly/39bYxSq"> Git page under construction
+<!-- <img src="https://bit.ly/39bYxSq"> Git page under construction -->
 
 
-<!-- A little bit about me, my journey and my skills. -->
+A little bit about me, my journey and my skills.
 
-<!-- - :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone <i>[REPO]</i>
+- :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone <i>[REPO]</i>
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
 
@@ -20,4 +20,4 @@
 | blank | blank | blank | blank |
 | blank | blank | blank | blank |
 | blank | blank | blank | blank |
-| blank | blank | blank | blank | -->
+| blank | blank | blank | blank |
