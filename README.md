@@ -3,10 +3,7 @@
 
 <b>Hey, I'm Josh <i>(he/him)...</i></b>
 
-[Projects](#projects) |
-
-
-<!-- <img src="https://bit.ly/39bYxSq"> Git page under construction -->
+[Projects](#projects) |[Experience](#experience) |[Employment](#employment) |[Education](#education) |[Interests](#interests) |
 
 
 A little bit about me, my journey and my skills.
@@ -23,11 +20,10 @@ A little bit about me, my journey and my skills.
 | [Jjerbook](https://jjer.herokuapp.com/signup) | First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
 | MakersBNB | First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
 
-<div align="center">
-<p><b>Experience and Employment</b></p></div>
 
-<div align="center">
-<p><b>Makers Academy&nbsp;&nbsp;(May 2020 cohort)</b></p></div>
+## Experience
+
+### Makers Academy&nbsp;&nbsp;(May 2020 cohort)
 
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
@@ -42,8 +38,9 @@ A little bit about me, my journey and my skills.
 
 <br>
 
-<div align="center">
-<p><b>Rice Up Whole Food (independent cooperative)</b>&nbsp;&nbsp;<i>(07/2017 - 02/2020)</i><br></p></div>
+## Employment
+
+### Rice Up Whole Food (independent cooperative)&nbsp;&nbsp;(07/2017 - 02/2020)
 
 Managing the loose wholefoods department saw me take on numerous roles and responsibilities including:
 
@@ -57,14 +54,14 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 
 <br>
 
-<div align="center">
-<p><b>Teesside University BA Games Design&nbsp;&nbsp;(2.1)</b>&nbsp;<i>(2016 Graduation)</i><br></p></div>
+## Education
+
+### Teesside University BA Games Design&nbsp;&nbsp;(2.1)&nbsp;(2016 Graduation)
 
 As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and scripting. Giving me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead to a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
 
 <br>
 
-<div align="center">
-<p><b>Interests and hobbies include</b><br></p></div>
+### Interests
 
 As well as yoga, home fitness and wild swimming I enjoy graphic design, cooking and sewing. I also have large comic and vinyl collections.
