@@ -8,7 +8,7 @@
 
 A little bit about me, my journey and my skills.
 
-- :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone <i>[REPO]</i>
+- :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone called [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler)
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
 
@@ -19,6 +19,7 @@ A little bit about me, my journey and my skills.
 | [Nah-amazon](https://nah-mazon.web.app/) | Final 2 week Makers Project | MERN stack | [Github](https://github.com/TimCPB/Nah-Mazon)<br>[Deployment](https://nah-mazon.web.app/) |
 | [Jjerbook](https://jjer.herokuapp.com/signup) | First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
 | MakersBNB | First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
+| [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler) | Practice making a full-stack | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
 
 
 ## Experience
