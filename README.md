@@ -16,10 +16,10 @@ A little bit about me, my journey and my skills.
 
 | Project | Description | Tech | Repo/ Link
 | ----------- | ----------- | ----------- | ----------- |
-| [Nah-amazon](https://nah-mazon.web.app/) | Final 2 week Makers Project | MERN stack | [Github](https://github.com/TimCPB/Nah-Mazon)<br>[Deployment](https://nah-mazon.web.app/) |
-| [Jjerbook](https://jjer.herokuapp.com/signup) | First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
-| MakersBNB | First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
-| Let me ask my Butler | Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
+| [Nah-amazon](https://nah-mazon.web.app/) :convenience_store:| Final 2 week Makers Project | MERN stack | [Github](https://github.com/TimCPB/Nah-Mazon)<br>[Deployment](https://nah-mazon.web.app/) |
+| [Jjerbook](https://jjer.herokuapp.com/signup) :book:| First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
+| MakersBNB :hotel:| First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
+| Let me ask my Butler :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
 
 
 ## Experience
