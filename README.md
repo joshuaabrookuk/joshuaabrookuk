@@ -54,8 +54,9 @@ It used to be that when I get stuck on a problem I either obsess and obsess some
 ### Learner
 
 Acknowledgement of my abilities takes a level of self-awareness.
-New programming languages and concepts might not always be quick or straightforward to learn in the beginning, a lot of trial and error is involved. Defining myself as a learner here is a bit of a superpower. I acknowledge the fact that processes need to be taken slowly and deliberately, working from a base of understanding building up my knowledge. While working remotely I have become much more resourceful. I know where to go and who to ask for help and as a result I move through blockages and focus on learning faster. 
+New programming languages and concepts might not always be quick or straightforward to learn in the beginning, a lot of trial and error is involved. Defining myself as a learner here is a bit of a superpower. I acknowledge the fact that processes need to be taken slowly and deliberately, working from a base of understanding building up my knowledge. While working remotely I have become much more resourceful. I know where to go and who to ask for help and as a result I move through blockages and focus on learning faster.
 
+<br>
 
 ## Employment
 
@@ -70,7 +71,6 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 * Meticulous record-keeping, written and digital-focused my accuracy and attention to detail.
 * I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GM’s with enthusiasm
 
-<br>
 
 ### Cafe Thrive &nbsp;&nbsp;(08/2017 - 04/2019)
 
@@ -80,7 +80,6 @@ Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was the
 * Having to balance many roles at once grew my capacity for multi-tasking.
 * I cultivated excellent communication skills with costumers and colleagues, relaying information is critical to the operation of the business, always prioritizing the needs of the customer.
 
-
 <br>
 
 ## Education
@@ -89,7 +88,6 @@ Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was the
 
 As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and scripting. Giving me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead to a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
 
-<br>
 
 ### Richard Taunton&nbsp;(2009 - 2012)
 
@@ -101,6 +99,8 @@ AS Film Studies C<br>
 
 English, Mathematics and Science all C and above
 with other GSCE's including:<br> Media Studies, Textiles and DiDA (Diploma in Digital Applications)
+
+<br>
 
 ## Interests
 
