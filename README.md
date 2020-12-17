@@ -39,6 +39,24 @@ A little bit about me, my journey and my skills.
 
 <br>
 
+## Skills
+
+### Teamwork
+
+I value above all else my ability to thrive in teamwork.Communication is the key to successful teamwork. During Makers group projects we used Agile methodology to coordinate and plan our project sprints and day-to-day responsibilities. As my confidence grew I took to the role of Leader or Scum-master happy to face the challenge, delegating time and prioritizing team resources in order to reach our collective goal. A happy team is a successful team. I take care of myself and reach out to others in need utilizing the skill of emotional intelligence.
+
+
+### Problem Solver
+
+It used to be that when I get stuck on a problem I either obsess and obsess some more and potentially give up. Makers has transformed my problem-solving abilities with practices such as: TDD, ‘the cardboard programmer’/ Rubber ducking, making me into a much more effective problem solver. I have also cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away. Always taking steps forward, despite how small.
+
+
+### Learner
+
+Acknowledgement of my abilities takes a level of self-awareness.
+New programming languages and concepts might not always be quick or straightforward to learn in the beginning, a lot of trial and error is involved. Defining myself as a learner here is a bit of a superpower. I acknowledge the fact that processes need to be taken slowly and deliberately, working from a base of understanding building up my knowledge. While working remotely I have become much more resourceful. I know where to go and who to ask for help and as a result I move through blockages and focus on learning faster. 
+
+
 ## Employment
 
 ### Rice Up Whole Food (independent cooperative)&nbsp;&nbsp;(07/2017 - 02/2020)
@@ -52,6 +70,16 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 * Meticulous record-keeping, written and digital-focused my accuracy and attention to detail.
 * I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GM’s with enthusiasm
 
+<br>
+
+### Cafe Thrive &nbsp;&nbsp;(08/2017 - 04/2019)
+
+Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was there from the beginning, working tirelessly at a company with a vision that I believed in.
+
+* I worked front of the house, 9-hour shifts, at peak times this was extremely busy, the job taught me a lot about keeping cool under pressure.
+* Having to balance many roles at once grew my capacity for multi-tasking.
+* I cultivated excellent communication skills with costumers and colleagues, relaying information is critical to the operation of the business, always prioritizing the needs of the customer.
+
 
 <br>
 
@@ -63,6 +91,17 @@ As a technical designer, I am not only able to conceptualise but also develop pr
 
 <br>
 
-### Interests
+### Richard Taunton&nbsp;(2009 - 2012)
+
+BTEC Media Production (Distinction*)<br>
+AS Photography B<br>
+AS Film Studies C<br>
+
+### Romsey School&nbsp;(2005 – 2009)
+
+English, Mathematics and Science all C and above
+with other GSCE's including:<br> Media Studies, Textiles and DiDA (Diploma in Digital Applications)
+
+## Interests
 
 As well as yoga, home fitness and wild swimming I enjoy graphic design, cooking and sewing. I also have large comic and vinyl collections.
