@@ -24,7 +24,7 @@ A little bit about me, my journey and my skills.
 
 ## Experience
 
-### Makers Academy&nbsp;&nbsp;(May 2020 cohort)
+### Makers Academy&nbsp;&nbsp;<i>(May 2020 cohort)</i>
 
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
@@ -57,7 +57,7 @@ It used to be that when I got stuck on a problem I would either obsessed and obs
 
 ## Employment
 
-### Rice Up Whole Food (independent cooperative)&nbsp;&nbsp;(07/2017 - 02/2020)
+### Rice Up Whole Food (independent cooperative)&nbsp;&nbsp;<i>(07/2017 - 02/2020)</i>
 
 Managing the loose wholefoods department saw me take on numerous roles and responsibilities including:
 
@@ -66,10 +66,10 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 * Memorization of allergens reinforced my knowledge of our products but also strengthened relations with customers.
 * Implemented efficient procedures of topping up and ordering making it easier for fellow employees and management get much clearer visibility on the cycle of products.
 * Meticulous record-keeping, written and digital-focused my accuracy and attention to detail.
-* I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GM’s with enthusiasm.
+* I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GMs with enthusiasm.
 
 
-### Cafe Thrive &nbsp;&nbsp;(08/2017 - 04/2019)
+### Cafe Thrive &nbsp;&nbsp;<i>(08/2017 - 04/2019)</i>
 
 Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was there from the beginning, working tirelessly at a company with a vision that I believed in.
 
@@ -81,18 +81,18 @@ Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was the
 
 ## Education
 
-### Teesside University BA Games Design&nbsp;&nbsp;(2.1)&nbsp;(2016 Graduation)
+### Teesside University BA Games Design&nbsp;&nbsp;(2.1)&nbsp;<i>(2016 Graduation)</i>
 
-As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and logic scripting. This gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead designer in  a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
+As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and logic scripting. This gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead designer in  a team of around ten. The role saw me collaborating with outsourcers from various disciplines, building my resilience to pressure and responsibility.
 
 
-### Richard Taunton&nbsp;(2009 - 2012)
+### Richard Taunton&nbsp;<i>(2009 - 2012)</i>
 
 BTEC Media Production (Distinction*)<br>
 AS Photography B<br>
 AS Film Studies C<br>
 
-### Romsey School&nbsp;(2005 – 2009)
+### Romsey School&nbsp;<i>(2005 – 2009)</i>
 
 English, Mathematics and Science all C and above
 with other GSCEs including:<br> Media Studies, Textiles and DiDA (Diploma in Digital Applications)
