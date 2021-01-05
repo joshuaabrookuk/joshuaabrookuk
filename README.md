@@ -64,19 +64,18 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 * Ordering, stocking, cleaning, being both independent and collaborative working towards a collective goal.
 * Training new employees with emphasis on stocking, storage, allergens, shaped my leadership and communication skills.
 * Memorization of allergens reinforced my knowledge of our products but also strengthened relations with customers.
-* Implemented efficient procedures of topping-up and ordering making it easier for fellow employees and management to get much clearer visibility on the cycle of products.
-* Meticulous record-keeping, written and digitally, focused my accuracy and attention to detail.
-* I prioritized values in line with the organisation, autonomy, solidarity and cooperation, attending all GM’s with enthusiasm and ideas / plans on how to operate the business.  
+* Implemented efficient procedures of topping up and ordering making it easier for fellow employees and management get much clearer visibility on the cycle of products.
+* Meticulous record-keeping, written and digital-focused my accuracy and attention to detail.
+* I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GM’s with enthusiasm.
 
 
 ### Cafe Thrive &nbsp;&nbsp;(08/2017 - 04/2019)
 
 Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was there from the beginning, working tirelessly at a company with a vision that I believed in.
 
-* I worked on front-of-house, 9-hour shifts, this was extremely busy, it taught me a lot about keeping cool under pressure.
-* Having to balance many roles and tasks at once grew my capacity for multi-tasking.
-* I cultivated excellent communication skills with customers and colleagues, relaying information was critical to the operation of the business, always prioritizing the needs of the customer.
-
+* I worked front of the house, 9-hour shifts, at peak times this was extremely busy, the job taught me a lot about keeping cool under pressure.
+* Having to balance many roles at once grew my capacity for multi-tasking.
+* I cultivated excellent communication skills with customers and colleagues, relaying information is critical to the operation of the business, always prioritizing the needs of the customer.
 
 <br>
 
