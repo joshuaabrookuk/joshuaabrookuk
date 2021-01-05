@@ -29,8 +29,8 @@ A little bit about me, my journey and my skills.
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
 * Following the TDD process, I write robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our first group project in Rails using Rspec and Capybara.
-* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the project, from Node components to entier classes.  
-* Adhering to Agile processes means that I am efficient and effective the rigid structure of which aided communications and relations during our first group project in JavaScript.
+* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the project, from Node components to entire classes.  
+* Adhering to Agile processes means that I am efficient and effective, the rigid structure of which aided communications during our first group project in JavaScript.
 * I can learn Independently and stick to my schedule to grow successfully, as demonstrated throughout the Makers Bootcamp and in my projects post Bootcamp
 * Experienced in Pair programming and Mobbing which involved cross-functional collaboration to get the team on the same page, helping build stronger connections and processes. This also built up my confidence.  
 * Utilize effective Debugging process ‘Tighten loop & Get visibility’, which was very effective when working with new frameworks and languages especially Javascript and Node
@@ -41,15 +41,15 @@ A little bit about me, my journey and my skills.
 
 ## Skills
 
-###Teamwork
+### Teamwork
 
 I value above all else my ability to thrive in teamwork, communication is the key to successful teamwork. During Makers group projects we used Agile principles to coordinate and plan our project schedule and day-to-day responsibilities. As my confidence grew I took to the role of Leader and Scrum-master (think of these as Captain and manager of a football team), eager to face the challenge, delegating time and prioritizing team resources in order to reach deadlines. I believe that a happy team is a successful team. I take care of myself and reach out to others in need, utilizing my emotional intelligence.
 
-###Learner
+### Learner
 
 Acknowledgement of my abilities takes a level of self-awareness. New programming languages and concepts are seldom quick or straightforward to learn, in the beginning a lot of trial and error is involved. Defining myself as a learner is a bit of a superpower. I acknowledge the fact that processes need to be followed and working deliberately and intentionally, from a base of understanding building up my knowledge. While working remotely I have become much more resourceful. I know where to go and who to ask for help and as a result I move through blockages and focus on learning faster.
 
-###Problem Solver
+### Problem Solver
 
 It used to be that when I got stuck on a problem I would either obsessed and obsessed some more or give up but Makers has transformed my problem-solving abilities, transforming me into a much more effective problem solver. I have cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away. Always taking steps forward, despite how small.
 
@@ -95,7 +95,7 @@ AS Film Studies C<br>
 ### Romsey School&nbsp;(2005 – 2009)
 
 English, Mathematics and Science all C and above
-with other GSCE's including:<br> Media Studies, Textiles and DiDA (Diploma in Digital Applications)
+with other GSCEs including:<br> Media Studies, Textiles and DiDA (Diploma in Digital Applications)
 
 <br>
 
