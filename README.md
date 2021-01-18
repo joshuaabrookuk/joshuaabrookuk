@@ -1,12 +1,9 @@
 <div align="center">
 <h1>Joshua Brook</h1></div>
 
-<b>Hey, I'm Josh <i>(he/him)...</i></b>
+<b>Hey, I'm Josh <i>(he/him)</i></b>
 
 [Projects](#projects) |[Experience](#experience) |[Employment](#employment) |[Education](#education) |[Interests](#interests) |
-
-
-A little bit about me, my journey and my skills.
 
 - :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone called [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler)
 - :bread: Ask me about making sourdough bread
