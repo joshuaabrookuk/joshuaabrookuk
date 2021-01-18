@@ -28,30 +28,28 @@ A little bit about me, my journey and my skills.
 
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
-* Following the TDD process, I write robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our first group project in Rails using Rspec and Capybara.
-* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the project, from Node components to entire classes.  
-* Adhering to Agile processes means that I am efficient and effective, the rigid structure of which aided communications during our first group project in JavaScript.
-* I can learn Independently and stick to my schedule to grow successfully, as demonstrated throughout the Makers Bootcamp and in my projects post Bootcamp
+* Following the TDD process, I wrote robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our first group project in Rails using Rspec and Capybara.
+* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the project, from Node components to entier classes.  
+* Adhering to Agile processes means that I am efficient and effective, the rigid structure of which aided communications and relations during our first group project in JavaScript.
+* I can learn independently and stick to my schedule to grow successfully, as demonstrated throughout the Makers Bootcamp and in my projects post Bootcamp
 * Experienced in Pair programming and Mobbing which involved cross-functional collaboration to get the team on the same page, helping build stronger connections and processes. This also built up my confidence.  
-* Utilize effective Debugging process ‘Tighten loop & Get visibility’, which was very effective when working with new frameworks and languages especially Javascript and Node
-* Studying and graduating during lockdown has instilled me with the skills and ability to be able to work successfully from a remote position, time management, discipline and has most importantly made me a more effective communicator.
-* Studying and graduating during lockdown has instilled me with the skills and ability to be able to work successfully from a remote position, time management, discipline and has most importantly made me a more effective communicator.
+* I utilise the effective Debugging process ‘Tighten loop & Get visibility’, which was very effective when working with new frameworks and languages especially Node and a framework like React.
+* Studying and graduating during lockdown has instilled me with the skills and ability to be able to work successfully from a remote position. It has also improved my time management, discipline and has most importantly made me a more effective communicator.
+
 
 <br>
 
 ## Skills
 
 ### Teamwork
+I value above all else my ability to thrive in teamwork, communication is the key to successful teamwork. During Makers group projects we used Agile principles to coordinate and plan our project schedule and day-to-day responsibilities. As my confidence grew I took to the role of Leader and Scrum-master eager to face the challenge, delegating tasks and prioritizing team resources to reach deadlines on time.
 
-I value above all else my ability to thrive in teamwork, communication is the key to successful teamwork. During Makers group projects we used Agile principles to coordinate and plan our project schedule and day-to-day responsibilities. As my confidence grew I took to the role of Leader and Scrum-master (think of these as Captain and manager of a football team), eager to face the challenge, delegating time and prioritizing team resources in order to reach deadlines. I believe that a happy team is a successful team. I take care of myself and reach out to others in need, utilizing my emotional intelligence.
-
-### Learner
-
-Acknowledgement of my abilities takes a level of self-awareness. New programming languages and concepts are seldom quick or straightforward to learn, in the beginning a lot of trial and error is involved. Defining myself as a learner is a bit of a superpower. I acknowledge the fact that processes need to be followed and working deliberately and intentionally, from a base of understanding building up my knowledge. While working remotely I have become much more resourceful. I know where to go and who to ask for help and as a result I move through blockages and focus on learning faster.
+### Efficient Learner
+Early on in my journey, I was exposed to many new languages and concept that were seldom quick or straightforward to learn, however, though practice and process I can find similarity in patterns and concepts, getting me up to speed quickly with any unfamiliar tech or language. With TTD for example, I acknowledge that processes need to be followed, working deliberately and intentionally, from a base of understanding. While working remotely I have become much more resourceful. I know where to go and who to ask for help, as a result, I move through blockages and focus on the big picture faster.
 
 ### Problem Solver
+It used to be that when I got stuck on a problem I would obsess until I found a solution or gave up trying, however, Makers has transformed my problem-solving abilities, turning me into a much more effective problem solver. I have cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away or ask for guidance always taking steps forward, despite how small.
 
-It used to be that when I got stuck on a problem I would either obsessed and obsessed some more or give up but Makers has transformed my problem-solving abilities, transforming me into a much more effective problem solver. I have cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away. Always taking steps forward, despite how small.
 
 <br>
 
@@ -61,13 +59,12 @@ It used to be that when I got stuck on a problem I would either obsessed and obs
 
 Managing the loose wholefoods department saw me take on numerous roles and responsibilities including:
 
-* Ordering, stocking, cleaning, being both independent and collaborative working towards a collective goal.
-* Training new employees with emphasis on stocking, storage, allergens, shaped my leadership and communication skills.
-* Memorization of allergens reinforced my knowledge of our products but also strengthened relations with customers.
-* Implemented efficient procedures of topping up and ordering making it easier for fellow employees and management get much clearer visibility on the cycle of products.
-* Meticulous record-keeping, written and digital-focused my accuracy and attention to detail.
-* I prioritized values inline with the organisation, autonomy, solidarity and cooperation, attending all GMs with enthusiasm.
-
+* Ordering, stocking and cleaning, being both independent and collaborative, working towards a collective goal. 
+* Training new employees in stocking, storage and allergens has shaped my leadership and communication skills.
+* Memorisation of allergens reinforced my knowledge of our products and also strengthened relations with customers. 
+* I implemented more efficient procedures of topping up and ordering which lead to increased visibility of the product cycle for both employees and management.
+* Meticulous record-keeping, written and digital, enhanced my accuracy and attention to detail.
+* I prioritised values in line with the organisation; autonomy, solidarity and cooperation, attending all general meetings with enthusiasm. 
 
 ### Cafe Thrive &nbsp;&nbsp;<i>(08/2017 - 04/2019)</i>
 
@@ -83,7 +80,7 @@ Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was the
 
 ### Teesside University BA Games Design&nbsp;&nbsp;(2.1)&nbsp;<i>(2016 Graduation)</i>
 
-As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and logic scripting. This gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. A highlight includes being junior and technical lead designer in  a team of around ten. The role saw me collaborating with outsourcers from various disciplines, building my resilience to pressure and responsibility.
+As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and scripting. This gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. One highlight includes being junior and technical lead to a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
 
 
 ### Richard Taunton&nbsp;<i>(2009 - 2012)</i>
