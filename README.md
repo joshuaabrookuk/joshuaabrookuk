@@ -18,6 +18,13 @@
 | MakersBNB :hotel:| First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
 | Let me ask my Butler :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
 
+## Tech Skills
+<div align="center">
+Javascript ES6, React, Node.js, jQuery, Jasmine, Jest <br>
+Ruby, Rails, Sinatra, RSpec, simplecov <br>
+PostgreSQL, MySQL, SQLite, MongoDB <br>
+Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
+</div>
 
 ## Experience
 
@@ -47,7 +54,6 @@ Early on in my journey, I was exposed to many new languages and concept that wer
 ### Problem Solver
 It used to be that when I got stuck on a problem I would obsess until I found a solution or gave up trying, however, Makers has transformed my problem-solving abilities, turning me into a much more effective problem solver. I have cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away or ask for guidance always taking steps forward, despite how small.
 
-
 <br>
 
 ## Employment
@@ -56,12 +62,12 @@ It used to be that when I got stuck on a problem I would obsess until I found a 
 
 Managing the loose wholefoods department saw me take on numerous roles and responsibilities including:
 
-* Ordering, stocking and cleaning, being both independent and collaborative, working towards a collective goal. 
+* Ordering, stocking and cleaning, being both independent and collaborative, working towards a collective goal.
 * Training new employees in stocking, storage and allergens has shaped my leadership and communication skills.
-* Memorisation of allergens reinforced my knowledge of our products and also strengthened relations with customers. 
+* Memorisation of allergens reinforced my knowledge of our products and also strengthened relations with customers.
 * I implemented more efficient procedures of topping up and ordering which lead to increased visibility of the product cycle for both employees and management.
 * Meticulous record-keeping, written and digital, enhanced my accuracy and attention to detail.
-* I prioritised values in line with the organisation; autonomy, solidarity and cooperation, attending all general meetings with enthusiasm. 
+* I prioritised values in line with the organisation; autonomy, solidarity and cooperation, attending all general meetings with enthusiasm.
 
 ### Cafe Thrive &nbsp;&nbsp;<i>(08/2017 - 04/2019)</i>
 
