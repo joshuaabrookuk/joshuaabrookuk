@@ -33,12 +33,13 @@ Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
 * Following the TDD process, I wrote robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our first group project in Rails using Rspec and Capybara.
-* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the project, from Node components to entier classes.  
-* Adhering to Agile processes means that I am efficient and effective, the rigid structure of which aided communications and relations during our first group project in JavaScript.
-* I can learn independently and stick to my schedule to grow successfully, as demonstrated throughout the Makers Bootcamp and in my projects post Bootcamp
-* Experienced in Pair programming and Mobbing which involved cross-functional collaboration to get the team on the same page, helping build stronger connections and processes. This also built up my confidence.  
-* I utilise the effective Debugging process ‘Tighten loop & Get visibility’, which was very effective when working with new frameworks and languages especially Node and a framework like React.
-* Studying and graduating during lockdown has instilled me with the skills and ability to be able to work successfully from a remote position. It has also improved my time management, discipline and has most importantly made me a more effective communicator.
+* Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the same project. This code could be anything from components to entire classes or models.  
+* Adhering to Agile processes means that I am an efficient and effective communicator. Its rigid structure aided planning and relations during our first group project in JavaScript.
+* I can learn independently and stick to my schedule in order to grow successfully, as demonstrated throughout the Makers Bootcamp and in my post Bootcamp projects.
+* Experienced in Pair programming and Mobbing which involved cross-functional collaboration to get the team on the same page. This helped build stronger connections and processes and it also built up my confidence.  
+* I utilise the Debugging process ‘Tighten loop & Get visibility’, which is very effective when working with new frameworks and languages, especially Node and the React framework.
+* Studying and graduating during lockdown has instilled in me the skills to work successfully from a remote position. It has also improved my time management, discipline and has most importantly made me a more effective communicator.
+
 
 
 <br>
@@ -46,13 +47,14 @@ Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
 ## Skills
 
 ### Teamwork
-I value above all else my ability to thrive in teamwork, communication is the key to successful teamwork. During Makers group projects we used Agile principles to coordinate and plan our project schedule and day-to-day responsibilities. As my confidence grew I took to the role of Leader and Scrum-master eager to face the challenge, delegating tasks and prioritizing team resources to reach deadlines on time.
+I value above all else my ability to thrive in a team, communication is the key to a successful project. During Makers group work we used Agile principles to coordinate and plan our project schedule as well as day-to-day responsibilities. As my confidence grew I took on the role of Leader and Scrum-Master, eager to face the challenge. I delegated tasks and prioritized team resources to reach our deadlines on time.
 
 ### Efficient Learner
-Early on in my journey, I was exposed to many new languages and concept that were seldom quick or straightforward to learn, however, though practice and process I can find similarity in patterns and concepts, getting me up to speed quickly with any unfamiliar tech or language. With TTD for example, I acknowledge that processes need to be followed, working deliberately and intentionally, from a base of understanding. While working remotely I have become much more resourceful. I know where to go and who to ask for help, as a result, I move through blockages and focus on the big picture faster.
+Early on in my journey, I was exposed to many new languages and concepts that were seldom quick or straightforward to learn. However, through practice and process I can find similarity in concepts, getting me up to speed with any unfamiliar tech or language. With TTD for example, I acknowledge that processes need to be followed, working deliberately and intentionally from a base of understanding. While working remotely I have become much more resourceful. I know where to go and who to ask for help, and as a result, I am able to move through blockages and focus on the bigger picture.
 
 ### Problem Solver
-It used to be that when I got stuck on a problem I would obsess until I found a solution or gave up trying, however, Makers has transformed my problem-solving abilities, turning me into a much more effective problem solver. I have cultivated a healthy mindset and strategies when I do get stuck. Now I approach problems with the same focus and dedication while allowing myself to breath and knowing when to step away or ask for guidance always taking steps forward, despite how small.
+It used to be that when I got stuck on a problem I would obsess until I found a solution or would give up trying. Makers Academy has transformed my problem-solving abilities, allowing me to troubleshoot much more effectively. This can be distinctly seen in my debugging process.  I have cultivated a healthy mindset and strategies for when I do get stuck. Now I approach problems with the same focus and dedication whilst allowing myself to breathe. I know when to step away or ask for guidance, always taking steps forward in the right direction.
+
 
 <br>
 
@@ -64,10 +66,11 @@ Managing the loose wholefoods department saw me take on numerous roles and respo
 
 * Ordering, stocking and cleaning, being both independent and collaborative, working towards a collective goal.
 * Training new employees in stocking, storage and allergens has shaped my leadership and communication skills.
-* Memorisation of allergens reinforced my knowledge of our products and also strengthened relations with customers.
+* The memorisation of allergens reinforced my knowledge of our products and also strengthened relations with customers.
 * I implemented more efficient procedures of topping up and ordering which lead to increased visibility of the product cycle for both employees and management.
-* Meticulous record-keeping, written and digital, enhanced my accuracy and attention to detail.
+* Meticulous record-keeping, written and digital which enhanced my accuracy and attention to detail.
 * I prioritised values in line with the organisation; autonomy, solidarity and cooperation, attending all general meetings with enthusiasm.
+
 
 ### Cafe Thrive &nbsp;&nbsp;<i>(08/2017 - 04/2019)</i>
 
@@ -83,7 +86,7 @@ Cafe Thrive, the first and only fully vegan restaurant in Southampton. I was the
 
 ### Teesside University BA Games Design&nbsp;&nbsp;(2.1)&nbsp;<i>(2016 Graduation)</i>
 
-As a technical designer, I am not only able to conceptualise but also develop projects using various dev tools with skills in design, 2D and 3D art and scripting. This gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. One highlight includes being junior and technical lead to a team of around ten. The role saw me collaborating with outsourcers from various disciplines and built my resilience to pressure.
+As a technical designer, I am not only able to conceptualise but also develop projects using various tools. With skills in design, 2D/ 3D art and scripting, this gives me a well-rounded cross-disciplinary understanding of all the elements that go into a large scale project. One highlight includes being junior and technical lead of a team of around ten. The role saw me collaborating and outsourcing from various disciplines and built my resilience to pressure.
 
 
 ### Richard Taunton&nbsp;<i>(2009 - 2012)</i>
