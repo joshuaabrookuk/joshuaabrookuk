@@ -32,9 +32,9 @@ Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
 
 <div><p><i>The skills and processes practised at Makers include </i></p></div>
 
-* Following the TDD process, I wrote robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our first group project in Rails using Rspec and Capybara.
+* Following the TDD process, I wrote robust code that grows from simplicity, giving me a solid footing for any new project, language or framework, such as our [first group project in Rails](https://github.com/Emanuele-20/acebook-rails-template/blob/master/README.md) using Rspec and Capybara.
 * Keeping code DRY means I can share readable, refactored, clear, clean code with other developers working on the same project. This code could be anything from components to entire classes or models.  
-* Adhering to Agile processes means that I am an efficient and effective communicator. Its rigid structure aided planning and relations during our first group project in JavaScript.
+* Adhering to Agile processes means that I am an efficient and effective communicator. Its rigid structure aided planning and relations during our [first group project in JavaScript.](https://github.com/sofyloafy/MakersBNB)
 * I can learn independently and stick to my schedule in order to grow successfully, as demonstrated throughout the Makers Bootcamp and in my post Bootcamp projects.
 * Experienced in Pair programming and Mobbing which involved cross-functional collaboration to get the team on the same page. This helped build stronger connections and processes and it also built up my confidence.  
 * I utilise the Debugging process ‘Tighten loop & Get visibility’, which is very effective when working with new frameworks and languages, especially Node and the React framework.
