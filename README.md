@@ -104,7 +104,7 @@ with other GSCEs including:<br> Media Studies, Textiles and DiDA (Diploma in Dig
 
 ## Interests
 
-Yoga: I started my journey about two years ago hoping to help my sore back, then coming to the realisation that yoga could offer me so much more peace of mind, connectivity and clarity in a time I really needed it most. Asana, breathwork, cold-water training and yoga nidra are now part of my daily practices. I also attend kirtan, charnting, cacao ceremonies and the occasional satsang.
+Yoga: I started my journey about two years ago hoping to help my sore back, then coming to the realisation that yoga could offer me so much more peace of mind, connectivity and clarity in a time I really needed it most. Asana, breathwork, cold-water training and yoga nidra are now part of my daily practices. I also attend kirtan, chanting, cacao ceremonies and the occasional satsang.
 
 Wild-swimming: What started as cold water training as part of my yoga practice has turned into one of my favorite hobbies.
 Rivers, the sea in Winter or Summer, the water is a beautiful place to be especially in the stillness of the morning,
