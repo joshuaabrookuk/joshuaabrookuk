@@ -107,10 +107,10 @@ with other GSCEs including:<br> Media Studies, Textiles and DiDA (Diploma in Dig
 Yoga: I started my journey about two years ago hoping to help my sore back, then coming to the realisation that yoga could offer me so much more peace of mind, connectivity and clarity in a time I really needed it most. Asana, breathwork, cold-water training and yoga nidra are now part of my daily practices. I also attend kirtan, chanting, cacao ceremonies and the occasional satsang.
 
 Wild-swimming: What started as cold water training as part of my yoga practice has turned into one of my favorite hobbies.
-Rivers, the sea in Winter or Summer, the water is a beautiful place to be especially in the stillness of the morning,
+Rivers, the sea in Winter or Summer, the water is a beautiful place to be especially in the stillness of the morning.
 
-Forest camping: I feel most alive in nature, wild camping is the closest I come living in harmony with the planet and myself.
+Forest camping: I feel most alive in nature, wild camping is the closest I come to living in harmony with the planet and myself.
 
-Cooking: I thrive on hearty simple food made with love, I try to make the same with the occasional decadent raw dessert. I’m also a pretty accomplished sourdough baker.
+Cooking: I thrive on hearty simple food made with love, I make the occasional decadent raw dessert. I’m also a pretty accomplished sourdough baker.
 
-Crafts and creatively: I’ve been sewing since I was a child making basic trousers and shorts, I’ve recently got a sewing machine and enjoy fixing and designing my own textiles. I also enjoy digital illustration /graphic design which I hope to do more of in the future.
+Crafts and creatively: I’ve been sewing since I was a child, making basic trousers and shorts all sorts, I’ve recently been given a sewing machine and enjoy fixing and designing my own textiles. I also enjoy digital illustration /graphic design which I hope to incorporate more into my work in the future.
