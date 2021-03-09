@@ -22,7 +22,7 @@
 <div align="center">
 Javascript ES6, React, Node.js, jQuery, Jasmine, Jest <br>
 Ruby, Rails, Sinatra, RSpec, simplecov <br>
-PostgreSQL, MySQL, SQLite, MongoDB <br>
+SQL, MongoDB <br>
 Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
 </div>
 
