@@ -8,7 +8,7 @@
 - :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone called [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler)
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
-- :books: [Currently reading...](https:goodreads.com/joshuabrookuk)
+- :books: [Currently reading...](https://www.goodreads.com/joshuabrookuk)
 
 ## Projects
 
