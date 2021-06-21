@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Joshua Brook</h1></div>
 
-<b>Hey, I'm Josh <i>(he/him)</i></b>
+<b>Hey, I'm Joshua <i>(he/him)</i></b>
 
 [Projects](#projects) |[Experience](#experience) |[Employment](#employment) |[Education](#education) |[Interests](#interests) |
 
-- :video_game: I’m currently interesed in learning C# and occasioanlly adding to my Reciver mod 
+- :video_game: I’m currently interesed in learning C# and occasioanlly adding to my [Reciver mod](https://github.com/joshuaabrookuk/7DFPS) 
 - :computer: putting [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler) on the back burner to focus on other projects
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
