@@ -5,25 +5,27 @@
 
 [Projects](#projects) |[Experience](#experience) |[Employment](#employment) |[Education](#education) |[Interests](#interests) |
 
-- :computer: I’m currently working on a [letmegooglethat](http://letmegooglethat.com/) clone called [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler)
+- :video_game: I’m currently interesed in learning C# and occasioanlly adding to my Reciver mod 
+- :computer: putting [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler) on the back burner to focus on other projects
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
-- :books: [Currently reading...](https://www.goodreads.com/joshuabrookuk)
+- :books: [Currently reading...](https://www.goodreads.com/joshuabrookuk) Tech: [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) by Tom Greenwood
 
 ## Projects
 
 | Project | Description | Tech | Repo/ Link
 | ----------- | ----------- | ----------- | ----------- |
+| Reciever - Yoshito Mod :video_game:| Poking around video game souce files | C# /Unity | [Github](https://github.com/joshuaabrookuk/7DFPS) |
+| Let me ask my Butler :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
 | [Nah-amazon](https://nah-mazon.web.app/) :convenience_store:| Final 2 week Makers Project | MERN stack | [Github](https://github.com/TimCPB/Nah-Mazon)<br>[Deployment](https://nah-mazon.web.app/) |
 | [Jjerbook](https://jjer.herokuapp.com/signup) :book:| First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
-| MakersBNB :hotel:| First group project / lets learn Node in a week | Node | [Github](https://github.com/sofyloafy/MakersBNB) |
-| Let me ask my Butler :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
 
 ## Tech Skills
 <div align="center">
+C# <br>
 Javascript ES6, React, Node.js, jQuery, Jasmine, Jest <br>
 Ruby, Rails, Sinatra, RSpec, simplecov <br>
-SQL, MongoDB <br>
+SQL, MongoDB, Airtable <br>
 Git, HTML, CSS, Travis CI, Heroku, API integration, Capybara <br>
 </div>
 
