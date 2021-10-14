@@ -5,18 +5,19 @@
 
 [Projects](#projects) |[Experience](#experience) |[Employment](#employment) |[Education](#education) |[Interests](#interests) |
 
-- :video_game: I’m currently interesed in learning C# and occasioanlly adding to my [Reciver mod](https://github.com/joshuaabrookuk/7DFPS) 
-- :computer: putting [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler) on the back burner to focus on other projects
+- :video_game: Occasioanlly adding to my [Reciver mod](https://github.com/joshuaabrookuk/7DFPS)
+- :computer: Just hosted [Let me ask my Butler](https://github.com/joshuaabrookuk/letmeaskmybutler) though it still needs some work.
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshuabrookuk@gmail.com
-- :books: [Currently reading...](https://www.goodreads.com/joshuabrookuk) Tech: [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) by Tom Greenwood
+- :books: Currently reading... [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) by Kal Newport
+- :books: Just finished... [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) by Tom Greenwood
 
 ## Projects
 
 | Project | Description | Tech | Repo/ Link
 | ----------- | ----------- | ----------- | ----------- |
 | Reciever - Yoshito Mod :video_game:| Poking around video game souce files | C# /Unity | [Github](https://github.com/joshuaabrookuk/7DFPS) |
-| Let me ask my Butler :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler) |
+| [Let me ask my Butler](https://letmeaskmybutler.herokuapp.com/) :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler)<br>[Deployment](https://letmeaskmybutler.herokuapp.com/) |
 | [Nah-amazon](https://nah-mazon.web.app/) :convenience_store:| Final 2 week Makers Project | MERN stack | [Github](https://github.com/TimCPB/Nah-Mazon)<br>[Deployment](https://nah-mazon.web.app/) |
 | [Jjerbook](https://jjer.herokuapp.com/signup) :book:| First Rails project | Rails | [Github](https://github.com/Emanuele-20/acebook-rails-template)<br>[Deployment](https://jjer.herokuapp.com/signup)|
 
